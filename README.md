@@ -7,7 +7,7 @@ This project focuses on analyzing and predicting content ratings using Machine L
 Performed detailed EDA to uncover key insights:
 
 Distribution analysis of genre, platform, country, and language
-Identified top genres and platforms based on content volume
+Identified top genres and platforms based on content volume and 
 Analyzed average rating by genre
 Explored content trends over years by platform
 Compared Movies vs Series distribution across platforms
